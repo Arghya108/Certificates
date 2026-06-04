@@ -1,2 +1,2 @@
-# CERTIFICATES
-My Certificates 🎓
+# My Certificates 🎓
+This repository contains all my personal certificates earned through various courses.
